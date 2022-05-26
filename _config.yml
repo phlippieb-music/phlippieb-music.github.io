@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : Phlippie Bosman Music
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  A blog-folio of the various musical projects I've created and collaborated on, and some previews on in-flight work
 
 
 ## => Language and Timezone
@@ -35,10 +35,10 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : Phlippie Bosman
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : I remember first making the decision to become a composer at the age of 12. After that, I have worked hard to develop a strong understanding of theory, composition and orchestration, and developed my listening skills to the point where I am always involuntarily dictating any music I hear. Nowadays my day-job is to write software, but I continue to bring music to life from my imagination.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -55,8 +55,8 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
-repository_tree: master
+#repository: user_name/repo_name
+#repository_tree: master
 
 
 ## => Paths
