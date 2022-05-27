@@ -6,7 +6,7 @@ tags: band
 *I Am November* was the indie-folk project of frontman Henry Routh. 
 After going it solo for a while, he teamed up with myself and Diffie Bosman for the debut EP, which was recorded in his living room a short drive outside the city.
 
-The 5-track EP is called *Concrete Sky*.
+The 6-track EP is called *Concrete Sky*.
 
 Listen:
 
