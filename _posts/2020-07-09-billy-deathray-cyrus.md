@@ -1,3 +1,8 @@
+---
+title: Billy Deathray Cyrus
+tags: solo project,drone
+---
+
 While seemingly everyone was baking bread or running garden marathons, I coped with the hard lockdown at the start of the pandemic by creating a two-track drone LP under the monniker *Billy Deathray Cyrus*.
 
 Listen:
