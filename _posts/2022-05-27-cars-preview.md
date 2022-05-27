@@ -1,5 +1,5 @@
 ---
-title: Preview: Cars
+title: Preview&#58; Cars
 tags: [solo project,preview]
 ---
 
