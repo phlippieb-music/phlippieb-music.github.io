@@ -16,6 +16,7 @@ listen on Spotify below:
 
 # Lyrics
 
+```text
 it's just the world, it's
 built for two
 kept for you
@@ -48,3 +49,4 @@ you lean out that way
 I am not that way
 I do everything twice now
 I do everything twice now
+```
