@@ -1,5 +1,5 @@
 ---
-title: Waverly - Two
+title: Waverly - Cars
 tags: [solo project,waverly]
 ---
 
