@@ -11,6 +11,7 @@ It's the first single under my Afrikaans synth pop project, Veldwerk.
 
 ### Lyrics
 
+```
 Ek het my garing se punt verloor
 En jou enkel is losgeknoop, o
 Van die atlas afgeval
@@ -36,3 +37,4 @@ Die wêreld val uit sy wentelbaan
 In die middel raak ons alleen
 My hart teen jou
 My hart teen jou sleutelbeen
+```
